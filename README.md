@@ -7,3 +7,4 @@ A website that shows the semantic order of header, main and footer elements crea
 - Contact section
 
 # Live Deployment
+You can view the live deployment at this [link.](https://css-marathon-1.netlify.app)
